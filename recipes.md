@@ -105,7 +105,16 @@ Ingredients:
 - 1 cup of cranberries
 - 1 cup of white chocolate chips
 
-
+Instructions:
+1. Preheat oven to 375°F (190°C).
+2. Combine flour, baking soda, and salt in a bowl.
+3. Cream together butter, white sugar, and brown sugar until smooth.
+4. Beat in eggs one at a time, then stir in vanilla.
+5. Gradually blend in the dry ingredients.
+6. Stir in cranberries and white chocolate chips.
+7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
+8. Bake for 8 to 10 minutes or until golden brown.
+9. Cool on wire racks.
 
 
 ### Chocolate Chip Cookies
