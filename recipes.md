@@ -90,6 +90,22 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
+### Cranberry & White Chocolate Chip Cookies
+Ingredients:
+- 2 1/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup unsalted butter, softened
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 eggs
+- 2 tsp vanilla extract
+- 1 cup of cranberries
+- 1 cup of white chocolate chips
+
+
+
+
 ### Chocolate Chip Cookies
 
 Ingredients:
