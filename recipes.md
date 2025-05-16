@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Cranberry and White Chocolate Chip Cookies](#cranberry-and-white-chocolate-chip-cookies)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -69,6 +70,7 @@ Instructions:
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
 7. Serve meatballs and sauce over spaghetti.
+8. Scatter with basil leaves.
 
 ### Grilled Chicken Sandwich
 
@@ -89,7 +91,8 @@ Instructions:
 3. Grill chicken for 5-7 minutes per side or until cooked through.
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+6. Chop celery.
+7. Assemble sandwiches with chicken, lettuce, tomato, celery, and mayonnaise.
 
 ## Desserts
 ### Chocolate Chip Cookies
